@@ -10,6 +10,10 @@ The dataset used contains several attributes related to houses, such as square f
 ## Installation
 To run this project, ensure you have the following libraries installed:
 ``` git
-
 pip install pandas numpy scikit-learn matplotlib seaborn
+```
+Clone this repository and navigate to the project directory:
+``` git
+git clone https://github.com/yourusername/House_Price_Prediction.git
+cd House_Price_Prediction
 ```
