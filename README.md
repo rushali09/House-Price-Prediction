@@ -52,3 +52,4 @@ Random Forest (Best Model):
 Training Score: 0.9731
 Test Score: 0.7995
 
+The Random Forest model performed better than Linear Regression, especially in predicting on unseen data, with a higher test score indicating improved predictive capability
