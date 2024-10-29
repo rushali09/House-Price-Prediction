@@ -33,3 +33,10 @@ Data preprocessing steps included:
 Handling Missing Values: Imputed missing values to avoid data loss or model biases.
 Feature Engineering: Converted categorical variables to numerical, created new features, and performed scaling where necessary.
 Data Transformation: Techniques like standardization and normalization improved model performance.
+
+## Modeling
+We implemented various machine learning models to predict house prices:
+
+1. Linear Regression
+2. Random Forest Model
+
