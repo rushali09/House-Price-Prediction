@@ -6,3 +6,10 @@ House prices are influenced by various factors such as location, size, number of
 ## Dataset
 The dataset used contains several attributes related to houses, such as square footage, neighborhood, number of bedrooms and bathrooms, and year built. The target variable is the price of the house 
 [Kaggle dataset](https://www.kaggle.com/datasets/camnugent/california-housing-prices)
+
+## Installation
+To run this project, ensure you have the following libraries installed:
+``` git
+
+pip install pandas numpy scikit-learn matplotlib seaborn
+```
