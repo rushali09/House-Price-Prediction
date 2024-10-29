@@ -22,4 +22,4 @@ In this step, we explored the data to identify key patterns and relationships:
 
 1. Descriptive Statistics: Summarized data distribution and identified key statistics like mean, median, and standard deviation.
 2. Visualization: Plots such as histograms, scatter plots, and heatmaps helped visualize relationships between features and the target variable.
-3. Insights: Identified correlations, important features, and potential outliers, which informed the feature engineering process.
+3. Insights: Identified correlations, important features, and potential outliers, which informed the feature engineering processes.
