@@ -53,3 +53,7 @@ Training Score: 0.9731
 Test Score: 0.7995
 
 The Random Forest model performed better than Linear Regression, especially in predicting on unseen data, with a higher test score indicating improved predictive capability
+
+## Conclusion
+
+Random Forest is the preferred model for this project due to its ability to model non-linear interactions, which are crucial in understanding house prices influenced by diverse factors like geographic location and feature interactions. Future improvements might include further hyperparameter tuning or exploring other ensemble methods to enhance the model’s performance and robustness.
