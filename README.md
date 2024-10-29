@@ -19,7 +19,7 @@ cd House_Price_Prediction
 ```
 ## Exploratory Data Analysis
 
-In this step, we explored the data to identify key patterns and relationships:
+In this step, explored the data to identify key patterns and relationships:
 
 1. Descriptive Statistics: Summarized data distribution and identified key statistics like mean, median, and standard deviation.
 2. Visualization: Plots such as histograms, scatter plots, and heatmaps helped visualize relationships between features and the target variable.
@@ -35,7 +35,7 @@ Feature Engineering: Converted categorical variables to numerical, created new f
 Data Transformation: Techniques like standardization and normalization improved model performance.
 
 ## Modeling
-We implemented various machine learning models to predict house prices:
+Implemented various machine learning models to predict house prices:
 
 1. Linear Regression
 2. Random Forest Regressor
