@@ -40,3 +40,15 @@ We implemented various machine learning models to predict house prices:
 1. Linear Regression
 2. Random Forest Regressor
 
+## Evaluation 
+
+Linear Regression:
+
+Training Score: 0.6258
+Test Score: 0.6207
+
+Random Forest (Best Model):
+
+Training Score: 0.9731
+Test Score: 0.7995
+
