@@ -17,7 +17,7 @@ Clone this repository and navigate to the project directory:
 git clone https://github.com/yourusername/House_Price_Prediction.git
 cd House_Price_Prediction
 ```
-##Exploratory Data Analysis
+## Exploratory Data Analysis
 In this step, we explored the data to identify key patterns and relationships:
 
 1. Descriptive Statistics: Summarized data distribution and identified key statistics like mean, median, and standard deviation.
