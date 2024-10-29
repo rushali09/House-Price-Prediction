@@ -38,5 +38,5 @@ Data Transformation: Techniques like standardization and normalization improved 
 We implemented various machine learning models to predict house prices:
 
 1. Linear Regression
-2. Random Forest Model
+2. Random Forest Regressor
 
